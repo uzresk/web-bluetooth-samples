@@ -5,7 +5,7 @@ WebBluetoothのサンプルアプリケーションです。
 - npm install or yarn install
 - npm start or yarn start
 
-試す場合はBLEを試すようのアプリケーションを利用します。
+試す場合はBLEを試す為のシミュレータを利用します。
 
 - https://apps.apple.com/us/app/lightblue-explorer-bluetooth-low-energy/id557428110
 - VirtualDevices → Health Thermometerを選択し、「Temperature Measurement」で値を入力してください。
